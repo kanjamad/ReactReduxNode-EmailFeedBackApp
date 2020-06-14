@@ -18,6 +18,7 @@ They're going to sign up with Google OAuth give us some money to create a campai
 * Express
 * MongoDB
 * Adobe XD
+* gitignore.io
 
 Technologies and idea of how we might be putting things together
 1. User signs up via Google OAuth So first off is handling Google authentication 
