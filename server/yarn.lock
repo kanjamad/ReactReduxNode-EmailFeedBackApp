@@ -2,29 +2,29 @@
 # yarn lockfile v1
 
 
-"@sendgrid/client@^7.2.2":
-  version "7.2.2"
-  resolved "https://registry.yarnpkg.com/@sendgrid/client/-/client-7.2.2.tgz#40e236c08fcf458a5b20d2f960fa045f0ca24e63"
-  integrity sha512-O2ensbYCZu7B7vMqcyaf5O8XqhDEyzwDYOxBvQYUenAqtpO+Fo5Xq6ZcZ+brCTxHQe1ytKQ9UCNKm/IZohRSPw==
+"@sendgrid/client@^7.2.5":
+  version "7.2.5"
+  resolved "https://registry.yarnpkg.com/@sendgrid/client/-/client-7.2.5.tgz#912575a5ecfe91c250eb6b267711dff2dea4e0f1"
+  integrity sha512-UZxk0liUeOMwbBkvlFJUezzP+w+gV6n13IAbG49KEiqwOns02HeSinFwF/CK0vQfjr3wkXRGKS34gvic53rlOg==
   dependencies:
-    "@sendgrid/helpers" "^7.2.0"
+    "@sendgrid/helpers" "^7.2.4"
     axios "^0.19.2"
 
-"@sendgrid/helpers@^7.2.0":
-  version "7.2.0"
-  resolved "https://registry.yarnpkg.com/@sendgrid/helpers/-/helpers-7.2.0.tgz#75cbde76815fa0f8b7966b3e2a0650fc125c3276"
-  integrity sha512-Ps8rc3xFpaQvIWoW1zlWi9G7QnxYwXFOeq0915DzXf5knoiOgXdFk/XBXbCFjr2lf/JIzjgFUtAV/dN8Z8jzHw==
+"@sendgrid/helpers@^7.2.4":
+  version "7.2.4"
+  resolved "https://registry.yarnpkg.com/@sendgrid/helpers/-/helpers-7.2.4.tgz#82544a4b7d9a905ce5e0b4f96fcd9b2a73129337"
+  integrity sha512-h8bBRXpjQLM0Zl08EGJPxVOPWBaXjEZZCM3IurxWn8RaVFYDGPVZ4pv4ZW9AAmsujntZXuIxSsmB4aQczg/ivw==
   dependencies:
     chalk "^2.0.1"
     deepmerge "^4.2.2"
 
-"@sendgrid/mail@^7.2.2":
-  version "7.2.2"
-  resolved "https://registry.yarnpkg.com/@sendgrid/mail/-/mail-7.2.2.tgz#a9d64fb0d240330e6c98d1e868e65e5a220c5183"
-  integrity sha512-DFXyMEY0c8iXi2lfIfuuQZlRUrlAriE7yeh8D5MDyIPmmHuNKRfKe9Buu/5vT37iWZM2N2BNFdAKPWNUgXRkDQ==
+"@sendgrid/mail@^7.2.3":
+  version "7.2.5"
+  resolved "https://registry.yarnpkg.com/@sendgrid/mail/-/mail-7.2.5.tgz#cc101c13e613e9f1466308f96dfb6c9e6dc60a1f"
+  integrity sha512-kbv5Mzzx6xei26fD84S4yn/JJ3v2Pz/tRwl4WULhJlxqvfs2sTAdVZc1kjQ09ffg32iVE62eO74WhhLm+vcuJw==
   dependencies:
-    "@sendgrid/client" "^7.2.2"
-    "@sendgrid/helpers" "^7.2.0"
+    "@sendgrid/client" "^7.2.5"
+    "@sendgrid/helpers" "^7.2.4"
 
 "@sindresorhus/is@^0.14.0":
   version "0.14.0"
@@ -129,9 +129,9 @@ binary-extensions@^2.0.0:
   integrity sha512-1Yj8h9Q+QDF5FzhMs/c9+6UntbD5MkRfRwac8DoEm9ZfUBZ7tZ55YcGVAzEe4bXsdQHEk+s9S5wsOKVdZrw0tQ==
 
 bl@^2.2.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/bl/-/bl-2.2.0.tgz#e1a574cdf528e4053019bb800b041c0ac88da493"
-  integrity sha512-wbgvOpqopSr7uq6fJrLH8EsvYMJf9gzfo2jCsL2eTy75qXPukA4pCgHamOQkZtY5vmfVtjB+P3LNlMHW5CEZXA==
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/bl/-/bl-2.2.1.tgz#8c11a7b730655c5d56898cdc871224f40fd901d5"
+  integrity sha512-6Pesp1w0DEX1N550i/uGV/TqucVL4AM/pgThFSN/Qq9si1/DF9aIHs1BxD8V/QU0HoeHO6cQRTAuYnLPKq1e4g==
   dependencies:
     readable-stream "^2.3.5"
     safe-buffer "^5.1.1"
